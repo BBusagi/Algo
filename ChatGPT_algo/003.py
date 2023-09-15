@@ -1,5 +1,7 @@
 '''
-题目：合并两个有序数组
+题目：
+合并两个有序数组(Easy)
+
 描述：
 给定两个有序整数数组 nums1 和 nums2，将 nums2 合并到 nums1 中，使得 num1 成为一个有序数组。
 
@@ -52,7 +54,6 @@ def merge1_1(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
             nums1.append(nums2[j])
 
     print(nums1)
-
 '''
 时间复杂度 O((m + n) * m)
 空间复杂度 O(1)
@@ -129,10 +130,10 @@ def merge2_1(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
     print(nums1)
 
 # main()
-# input1 = input("数组1：")
-# input1_1 = input("有效数字：")
-# input2 = input("数组2：")
-# input2_1 = input("有效数字：")
+input1 = input("数组1：")
+input1_1 = input("有效数字：")
+input2 = input("数组2：")
+input2_1 = input("有效数字：")
 
 # # test1
 # input1 = "1,2,4,7"
@@ -146,11 +147,12 @@ def merge2_1(nums1: List[int], m: int, nums2: List[int], n: int) -> None:
 # input2 = "46,57,91"
 # input2_1 = "3"
 
-#test3
-input2 = "1,2,3"
-input1_1 = "3"
-input1 = "4,5,6"
-input2_1 = "3"
+# #test3
+# input2 = "1,2,3"
+# input1_1 = "3"
+# input1 = "4,5,6"
+# input2_1 = "3"
+
 
 
 nums1 = list(map(int,input1.split(",")))

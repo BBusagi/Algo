@@ -1,2 +1,5 @@
-for i in range (5,0):
-    print(i)
+rec = []
+int1 = int
+
+print(rec)
+print(int1)
