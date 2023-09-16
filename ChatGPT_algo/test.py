@@ -1,5 +1,4 @@
-rec = []
-int1 = int
+words = ["flower", "flow", "flight"]
 
-print(rec)
-print(int1)
+for i in range[len(words)]:
+    print(words[i])
