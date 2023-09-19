@@ -1,4 +1,7 @@
-words = ["flower", "flow", "flight"]
+s = []
+if s is None:
+    print(1)
+else:
+    print(2)
 
-for i in range[len(words)]:
-    print(words[i])
+print(len(s))

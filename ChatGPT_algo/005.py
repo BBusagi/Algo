@@ -36,7 +36,7 @@ def def1 (words=None):           #建议参数使用不可变类型
     return lcp
 
 # 逐字符比较
-def dev1_chatGPT(strs):
+def def1_chatGPT(strs):
     if not strs:
         return ""
     
@@ -49,12 +49,26 @@ def dev1_chatGPT(strs):
         lcp += current_char
     return lcp
 
+#2 首尾比较
+def def2 (words):
+    result = ""
+    min_word = min(words)
+    max_word = max(words)
+
+    for i in range(len(min_word)):
+        if min_word[i] == max_word[i]:
+            result += min_word[i]
+        else: 
+            return result
+    
+    return result
+
 #input1 = input()
 #words_input = input1.split(",")
 
-words_input = ["flower", "flow", "flight"]
+#words_input = ["flower", "flow", "flight"]
 #words_input = ["dog", "racecar", "car"]
-#words_input = ["waweevrsfds", "wawfsefw", "wawdsdfer","wawfsdwqwe"]
+words_input = ["waweevrsfds", "wawfsefw", "wawdsdfer","wawfsdwqwe"]
 
 print(words_input)
-print(dev1_chatGPT(words_input))
+print(def2(words_input))
