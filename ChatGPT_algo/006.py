@@ -75,14 +75,9 @@ def def3(s: str) -> bool:
             if len(stack) == 0:
                 return False
             check = stack.pop()
-            if dic[current] == check :
-
-            
-    
-
-    print(dic)
-
-    pass
+            if dic[current] != check :
+                return False
+    return len(stack) == 0
 
 
 
