@@ -1,24 +1,46 @@
 # 设计数据结构
-## 01 Design Dynamic Array (Resizable Array)  `[Easy] `     [01](01.py)
+## 01 Design Dynamic Array (Resizable Array)  `[Easy] `    
+
+### Solution: [01](01.py)
+
 ![](01.PNG)
-### Example:    ![](01_2.PNG)
+![](01_2.PNG)
 
 
-## 02 Design Singly Linked List   `[Easy]`  [02](02.py)
-![](02.PNG)
-### Example:    ![](02_2.PNG)
 
-## 03 Design Double-ended Queue ---`[Easy]` [03](03.md)
-### [03_alter Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ---`[Medium]`
-[03A](03_alter.py) - [video](https://www.youtube.com/watch?v=aBbsfn863oA)
+## 02 Design Singly Linked List   `[Easy]`  
 
+### Solution: [02](02.py)
+
+![](02.PNG)  
+![](02_2.PNG)
+
+
+
+## 03 Design Double-ended Queue ---`[Easy]` 
+
+- Explanation: [03](03.md)
+
+## 03_alter Design Circular Queue ---`[Medium]`  
+
+### Solution: [03A](03_alter.py) - [video](https://www.youtube.com/watch?v=aBbsfn863oA)
+
+[Leetcode 622](https://leetcode.com/problems/design-circular-queue/) 
 ![](03.PNG)
-### Example:    ![](03_2.PNG)
+![](03_2.PNG)
 
 ## 04 Design Binary Search Tree ---`[Medium]`
-[good ref1](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)  
-### [04_alter Binary Search](https://leetcode.com/problems/binary-search/) ---`[Easy]`
-[04A](04_alter.py) - [video](https://www.youtube.com/watch?v=s4DPM8ct1pI&list=PLot-Xpze53leNZQd0iINpD-MAhMOMzWvO&index=2)
+- Refence: [ref1](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)  
+
+- Tip: [tip1](04_tip.md)
+
+## 04_alter Binary Search ---`[Easy]`
+
+### Solution: [04A](04_alter.py) - [video](https://www.youtube.com/watch?v=s4DPM8ct1pI&list=PLot-Xpze53leNZQd0iINpD-MAhMOMzWvO&index=2)
+
+[Leetcode 704](https://leetcode.com/problems/binary-search/)
+![](04.PNG)
+
 
 ## 05 Design Hash Table ---`[Medium]`
 
