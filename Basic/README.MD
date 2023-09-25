@@ -1,4 +1,4 @@
-# 设计数据结构
+# Part1_设计数据结构
 ## 01 Design Dynamic Array (Resizable Array)  `[Easy] `    
 
 ### Solution: [01](01.py)
@@ -29,7 +29,10 @@
 ![](03.PNG)
 ![](03_2.PNG)
 
+
+
 ## 04 Design Binary Search Tree ---`[Medium]`
+
 - Refence: [ref1](https://www.geeksforgeeks.org/binary-search-tree-data-structure/)  
 
 - Tip: [tip1](04_tip.md)
@@ -42,7 +45,17 @@
 ![](04.PNG)
 
 
+
 ## 05 Design Hash Table ---`[Medium]`
+
+- Explanation: [05](05.md)
+
+## 05_alter Design HashMap ---`[Easy]`
+
+### Solution: [05A](05_alter.py) - [video](https://www.youtube.com/watch?v=cNWsgbKwwoU)
+
+[Leetcode 706](https://leetcode.com/problems/design-hashmap/description/)
+![](05.PNG)
 
 ## 06 Design Heap ---`[Medium]`  
 
@@ -52,14 +65,14 @@
 
 ## 09 Design Segment Tree ---`[Hard]`    
 
-# 基本排序算法
+# Part2_基本排序算法
 ## 10 Insertion Sort ---`[Easy]`
 
 ## 11 Merge Sort ---`[Medium]`     
 
 ## 12 Quick Sort ---`[Medium]`     
 
-# 图算法
+# Part3_图算法
 ## 13 Dijkstra's Algorithm ---`[Medium]`   
 
 ## 14 Prim's Algorithm ---`[Hard]`   
