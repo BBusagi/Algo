@@ -60,6 +60,8 @@
 
 ## 06 Design Heap ---`[Medium]`  
 
+- Explanation: [06](06.md)
+
 ## 07 Design Graph ---`[Medium]`  
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
@@ -68,6 +70,13 @@
 
 # Part2_基本排序算法
 ## 10 Insertion Sort ---`[Easy]`
+
+- Basic: [10_basic](10_basic.py)
+
+### Solution: [10](10.py) - [video](https://www.youtube.com/watch?v=PqPG7WGwGlU)
+
+![](10.PNG)
+![](10_2.PNG)
 
 ## 11 Merge Sort ---`[Medium]`     
 
@@ -86,3 +95,6 @@
 2. [old URL](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
 3. [THE Python Tutorial](https://docs.python.org/3.11/tutorial/index.html)
 4. [Python Tutorial_geeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm_outind)
+5. [VisuAlgo](https://visualgo.net/zh)
+6. []()
+7. []()
