@@ -1,4 +1,5 @@
-# Part1_设计数据结构
+# Part1_设计数据结构 [URL](https://neetcode.io/practice)
+
 ## 01 Design Dynamic Array (Resizable Array)  `[Easy] `    
 
 ### Solution: [01](01.py)
@@ -25,7 +26,7 @@
 
 ### Solution: [03A](03_alter.py) - [video](https://www.youtube.com/watch?v=aBbsfn863oA)
 
-[Leetcode 622](https://leetcode.com/problems/design-circular-queue/) 
+[Leetcode 622](https://leetcode.com/problems/design-circular-queue/)   
 ![](03.PNG)
 ![](03_2.PNG)
 
@@ -41,7 +42,7 @@
 
 ### Solution: [04A](04_alter.py) - [video](https://www.youtube.com/watch?v=s4DPM8ct1pI&list=PLot-Xpze53leNZQd0iINpD-MAhMOMzWvO&index=2)
 
-[Leetcode 704](https://leetcode.com/problems/binary-search/)
+[Leetcode 704](https://leetcode.com/problems/binary-search/)  
 ![](04.PNG)
 
 
@@ -54,7 +55,7 @@
 
 ### Solution: [05A](05_alter.py) - [video](https://www.youtube.com/watch?v=cNWsgbKwwoU)
 
-[Leetcode 706](https://leetcode.com/problems/design-hashmap/description/)
+[Leetcode 706](https://leetcode.com/problems/design-hashmap/description/)  
 ![](05.PNG)
 
 ## 06 Design Heap ---`[Medium]`  
@@ -78,3 +79,10 @@
 ## 14 Prim's Algorithm ---`[Hard]`   
 
 ## 15 Kruskal's Algorithm ---`[Hard] `   
+
+# Reference:
+
+1. [URL](https://neetcode.io/practice)
+2. [old URL](https://docs.google.com/spreadsheets/d/1A2PaQKcdwO_lwxz9bAnxXnIQayCouZP6d-ENrBz_NXc/edit#gid=0)
+3. [THE Python Tutorial](https://docs.python.org/3.11/tutorial/index.html)
+4. [Python Tutorial_geeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm_outind)
