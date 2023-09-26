@@ -1,3 +1,4 @@
+# 本脚本为自己的方法，直接修改mergesort
 class Solution(object):
     def mergeSort(self, arr):
         if len(arr) <= 1: return arr
@@ -8,9 +9,11 @@ class Solution(object):
 
         self.mergeSort(left)
         self.mergeSort(right)
-        new_arr = self.merge_st(left,right)
+        merged = self.merge_st(left, right)
+        for i in range(len(merged)):
+            arr[i] = merged[i]
 
-        return new_arr
+        return merged
 
     def merge_st(self,left,right):
         res = []
@@ -35,13 +38,6 @@ class Solution(object):
             
 
     def merge(self, nums1, m, nums2, n):
-        """
-        :type nums1: List[int]
-        :type m: int
-        :type nums2: List[int]
-        :type n: int
-        :rtype: None Do not return anything, modify nums1 in-place instead.
-        """
         j = 0
         for i in range(m,len(nums1)):
             nums1[i] = nums2[j]
