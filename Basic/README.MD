@@ -68,7 +68,10 @@
 
 ## 09 Design Segment Tree ---`[Hard]`    
 
-# Part2_基本排序算法
+# Part2_基本排序算法  
+
+The essence of sorting algorithms is to reduce the number of **inverse pairs**.
+
 ## 10 Insertion Sort ---`[Easy]`
 
 - Basic: [10_basic](10_basic.py)
@@ -79,6 +82,10 @@
 ![](10_2.PNG)
 
 ## 11 Merge Sort ---`[Medium]`     
+
+- Basic: [11_basic](11_basic.py)  
+  
+- Tip: [11_tip](11_tip.md)
 
 ## 12 Quick Sort ---`[Medium]`     
 
