@@ -60,4 +60,9 @@ def merge(left,right):
 #arr = [38, 27, 43, 3, 9, 82, 10]
 arr = [3, 1, 4, 1, 5, 9, 2, 6]
 sorted_arr = mergeSort(arr)
-print(sorted_arr)
+print(sorted_arr)\
+
+'''
+时间复杂度: O(nlogn)
+空间复杂度: O(n)
+'''

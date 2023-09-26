@@ -86,6 +86,18 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 - Basic: [11_basic](11_basic.py)  
   
 - Tip: [11_tip](11_tip.md)
+  
+## 11_alter Merge Sorted Array ---`[Easy]`
+
+### Solution: 
+
+ - 自己的方法：[11_alter1_1](11_alter1_1.py)
+
+ - 改进版：[11_alter1_2](11_alter1_2.py)
+
+ - [video](https://www.youtube.com/watch?v=P1Ic85RarKY) :  [11_alter1_3](11_alter1_3.py)
+
+![](11_alter1.PNG)
 
 ## 12 Quick Sort ---`[Medium]`     
 
