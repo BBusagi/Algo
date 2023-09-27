@@ -58,15 +58,25 @@
 [Leetcode 706](https://leetcode.com/problems/design-hashmap/description/)  
 ![](05.PNG)
 
+
+
 ## 06 Design Heap ---`[Medium]`  
 
 - Explanation: [06](06.md)
 
+
+
 ## 07 Design Graph ---`[Medium]`  
+
+
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
 
+
+
 ## 09 Design Segment Tree ---`[Hard]`    
+
+
 
 # Part2_基本排序算法  
 
@@ -80,6 +90,8 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
 ![](10.PNG)
 ![](10_2.PNG)
+
+
 
 ## 11 Merge Sort ---`[Medium]`     
 
@@ -97,9 +109,23 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
  - [video](https://www.youtube.com/watch?v=P1Ic85RarKY) :  [11_alter1_3](11_alter1_3.py)
 
+[Leetcode 88](https://leetcode.com/problems/merge-sorted-array/)  
 ![](11_alter1.PNG)
 
+## 11_alter Sort List ---`[Medium]`
+
+### Solution: 
+
+- 自己的方法：[自己的方法](11_alter2.py)
+  
+- [video](https://www.youtube.com/watch?v=TGveA1oFhrc) : [11_alter2_2](11_alter2_2.py)
+
+[Leetcode 148](https://leetcode.com/problems/sort-list/)  
+![](11_alter2.PNG)
+
 ## 12 Quick Sort ---`[Medium]`     
+
+
 
 # Part3_图算法
 ## 13 Dijkstra's Algorithm ---`[Medium]`   
