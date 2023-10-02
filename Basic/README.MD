@@ -125,7 +125,9 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
 ## 12 Quick Sort ---`[Medium]`     
 
-
+- Basic: [12_basic](12_basic.py)  
+  
+- py special: [12_basic2](12_basic2.py)
 
 # Part3_图算法
 ## 13 Dijkstra's Algorithm ---`[Medium]`   
