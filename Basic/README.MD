@@ -64,7 +64,15 @@
 
 - Explanation: [06](06.md)
 
+- Basic: [06_basic](06_basic.py)
 
+## 06_alter K Closest Points to Origin ---`[Medium]`
+
+### Solution: [06A](06_alter.py) - [video](https://www.youtube.com/watch?v=rI2EBUEMfTk&ab_channel=NeetCode)
+
+[Leetcode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
+![](06_alter.PNG)
+![](06_alter_2.PNG)
 
 ## 07 Design Graph ---`[Medium]`  
 
