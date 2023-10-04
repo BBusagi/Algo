@@ -4,7 +4,7 @@
 
 ### Solution: [01](01.py)
 
-![](01.PNG)
+![](01.PNG)<br>
 ![](01_2.PNG)
 
 
@@ -13,7 +13,7 @@
 
 ### Solution: [02](02.py)
 
-![](02.PNG)  
+![](02.PNG)<br>
 ![](02_2.PNG)
 
 
@@ -27,7 +27,7 @@
 ### Solution: [03A](03_alter.py) - [video](https://www.youtube.com/watch?v=aBbsfn863oA)
 
 [Leetcode 622](https://leetcode.com/problems/design-circular-queue/)   
-![](03.PNG)
+![](03.PNG)<br>
 ![](03_2.PNG)
 
 
@@ -71,11 +71,20 @@
 ### Solution: [06A](06_alter.py) - [video](https://www.youtube.com/watch?v=rI2EBUEMfTk&ab_channel=NeetCode)
 
 [Leetcode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
-![](06_alter.PNG)
+![](06_alter.PNG)<br>
 ![](06_alter_2.PNG)
 
 ## 07 Design Graph ---`[Medium]`  
 
+- Explanation: [07](07.md)
+
+## 07_alter Maximum Depth of Binary Tree ---`[Easy]`
+
+### Solution: [07A](07_alter.py) - [video](https://www.youtube.com/watch?v=hTM3phVI6YQ&ab_channel=NeetCode)
+
+[Leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
+![](07_alter.PNG)<br>
+![](07_alter_2.PNG)
 
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
@@ -96,7 +105,7 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
 ### Solution: [10](10.py) - [video](https://www.youtube.com/watch?v=PqPG7WGwGlU)
 
-![](10.PNG)
+![](10.PNG)<br>
 ![](10_2.PNG)
 
 
