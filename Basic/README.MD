@@ -76,7 +76,7 @@
 
 ## 07 Design Graph ---`[Medium]`  
 
-- Explanation: [07](07.md)
+- Explanation: [07](07.md) - [video](https://www.youtube.com/watch?v=utDu3Q7Flrw&list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI&ab_channel=NeetCode)
 
 ## 07_alter Maximum Depth of Binary Tree ---`[Easy]`
 
@@ -88,6 +88,16 @@
 
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
+
+## 08_alter Number of Connected Components in an Undirected Graph ---`[Medium]`
+
+### Solution: [08A](08_alter.py) - [video](https://www.youtube.com/watch?v=8f1XPm4WOUc&ab_channel=NeetCode)
+
+[Leetcode 323_premium](https://algo.monster/liteproblems/323)  
+![](08_alter.PNG)
+
+## 08_alter Number of Provinces ---`[Medium]` ---TODO
+[Leetcode 547](https://leetcode.com/problems/number-of-provinces/description/)  
 
 
 
