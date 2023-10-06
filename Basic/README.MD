@@ -74,6 +74,8 @@
 ![](06_alter.PNG)<br>
 ![](06_alter_2.PNG)
 
+
+
 ## 07 Design Graph ---`[Medium]`  
 
 - Explanation: [07](07.md) - [video](https://www.youtube.com/watch?v=utDu3Q7Flrw&list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI&ab_channel=NeetCode)
@@ -85,6 +87,7 @@
 [Leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
 ![](07_alter.PNG)<br>
 ![](07_alter_2.PNG)
+
 
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
