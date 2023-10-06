@@ -106,6 +106,16 @@
 
 ## 09 Design Segment Tree ---`[Hard]`    
 
+- Basic: [09_basic](09_basic.py)
+
+## 09_alter Range Sum Query - Mutable ---`[Medium]`
+
+### Solution: [09A](09_alter.py) - [video](https://www.youtube.com/watch?v=rYBtViWXYeI&ab_channel=HuaHua)
+
+[Leetcode 307](https://leetcode.com/problems/range-sum-query-mutable/)  
+![](09_alter.PNG)<br>
+![](09_alter_2.PNG)
+
 
 
 # Part2_基本排序算法  
