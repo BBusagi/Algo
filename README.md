@@ -2,10 +2,10 @@
 All files for algorithmic exercises
 
 ## Basic
--> [README](Basic/README.md)
+-> [README](Basic/README.MD)
 
 ## ChatGPT_algo
--> [README](ChatGPT_algo/README.md)
-
+-> [README](ChatGPT_algo/README.MD)
+MD
 ## LeetCode Explore (TODO)
 -> [README](LeetCodeExplore/README.md)
