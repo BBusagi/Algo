@@ -6,6 +6,6 @@ All files for algorithmic exercises
 
 ## ChatGPT_algo
 -> [README](ChatGPT_algo/README.MD)
-MD
+
 ## LeetCode Explore (TODO)
 -> [README](LeetCodeExplore/README.md)
