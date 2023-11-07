@@ -56,3 +56,8 @@ node3.next = node4
 head = node1
 
 print(sol.sortList(head))
+
+'''
+时间复杂度：O(n log n)
+空间复杂度是：O(log n)
+'''
