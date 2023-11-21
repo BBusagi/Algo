@@ -4,7 +4,7 @@
 
 ### Solution: [01](01.py)
 
-![](01.PNG)
+![](01.PNG)<br>
 ![](01_2.PNG)
 
 
@@ -13,7 +13,7 @@
 
 ### Solution: [02](02.py)
 
-![](02.PNG)  
+![](02.PNG)<br>
 ![](02_2.PNG)
 
 
@@ -27,7 +27,7 @@
 ### Solution: [03A](03_alter.py) - [video](https://www.youtube.com/watch?v=aBbsfn863oA)
 
 [Leetcode 622](https://leetcode.com/problems/design-circular-queue/)   
-![](03.PNG)
+![](03.PNG)<br>
 ![](03_2.PNG)
 
 
@@ -64,17 +64,57 @@
 
 - Explanation: [06](06.md)
 
+- Basic: [06_basic](06_basic.py)
+
+## 06_alter K Closest Points to Origin ---`[Medium]`
+
+### Solution: [06A](06_alter.py) - [video](https://www.youtube.com/watch?v=rI2EBUEMfTk&ab_channel=NeetCode)
+
+[Leetcode 973](https://leetcode.com/problems/k-closest-points-to-origin/)  
+![](06_alter.PNG)<br>
+![](06_alter_2.PNG)
+
 
 
 ## 07 Design Graph ---`[Medium]`  
+
+- Explanation: [07](07.md) - [video](https://www.youtube.com/watch?v=utDu3Q7Flrw&list=PLot-Xpze53ldBT_7QA8NVot219jFNr_GI&ab_channel=NeetCode)
+
+## 07_alter Maximum Depth of Binary Tree ---`[Easy]`
+
+### Solution: [07A](07_alter.py) - [video](https://www.youtube.com/watch?v=hTM3phVI6YQ&ab_channel=NeetCode)
+
+[Leetcode 104](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)  
+![](07_alter.PNG)<br>
+![](07_alter_2.PNG)
 
 
 
 ## 08 Design Disjoint Set (Union-Find) ---`[Medium]`     
 
+## 08_alter Number of Connected Components in an Undirected Graph ---`[Medium]`
+
+### Solution: [08A](08_alter.py) - [video](https://www.youtube.com/watch?v=8f1XPm4WOUc&ab_channel=NeetCode)
+
+[Leetcode 323_premium](https://algo.monster/liteproblems/323)  
+![](08_alter.PNG)
+
+## 08_alter Number of Provinces ---`[Medium]` ---TODO
+[Leetcode 547](https://leetcode.com/problems/number-of-provinces/description/)  
+
 
 
 ## 09 Design Segment Tree ---`[Hard]`    
+
+- Basic: [09_basic](09_basic.py)
+
+## 09_alter Range Sum Query - Mutable ---`[Medium]`
+
+### Solution: [09A](09_alter.py) - [video](https://www.youtube.com/watch?v=rYBtViWXYeI&ab_channel=HuaHua)
+
+[Leetcode 307](https://leetcode.com/problems/range-sum-query-mutable/)  
+![](09_alter.PNG)<br>
+![](09_alter_2.PNG)
 
 
 
@@ -88,7 +128,7 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
 ### Solution: [10](10.py) - [video](https://www.youtube.com/watch?v=PqPG7WGwGlU)
 
-![](10.PNG)
+![](10.PNG)<br>
 ![](10_2.PNG)
 
 
@@ -125,7 +165,9 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 
 ## 12 Quick Sort ---`[Medium]`     
 
-
+- Basic: [12_basic](12_basic.py)  
+  
+- py special: [12_basic2](12_basic2.py)
 
 # Part3_图算法
 ## 13 Dijkstra's Algorithm ---`[Medium]`   
@@ -141,6 +183,11 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 3. [THE Python Tutorial](https://docs.python.org/3.11/tutorial/index.html)
 4. [Python Tutorial_geeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm_outind)
 5. [VisuAlgo](https://visualgo.net/zh)
+<<<<<<< HEAD
 6. []()
 7. []()
 
+=======
+6. [Visually Debug Code](https://pythontutor.com/python-compiler.html#mode=edit)
+7. []()
+>>>>>>> 611ed2ce1f9686e6f20ea6bd5ecca3a3cd0f315b
