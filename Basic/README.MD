@@ -183,11 +183,8 @@ The essence of sorting algorithms is to reduce the number of **inverse pairs**.
 3. [THE Python Tutorial](https://docs.python.org/3.11/tutorial/index.html)
 4. [Python Tutorial_geeks](https://www.geeksforgeeks.org/python-programming-language/?ref=shm_outind)
 5. [VisuAlgo](https://visualgo.net/zh)
-<<<<<<< HEAD
-6. []()
-7. []()
-
-=======
 6. [Visually Debug Code](https://pythontutor.com/python-compiler.html#mode=edit)
 7. []()
->>>>>>> 611ed2ce1f9686e6f20ea6bd5ecca3a3cd0f315b
+8. []()
+9. []()
+10. []()

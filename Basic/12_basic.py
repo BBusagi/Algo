@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-def quickSort(self, arr, left, right):
-    if left >= right:
-        return
-
-    pivot = partition(arr,left,right)
-    quickSort(arr,left,pivot-1)
-    quickSort(arr,pivot,right)
-
-def partition(self, arr, left, right) -> int:
-    pivot = arr[right]
-
-    index = left
-    for i in range(left,right):
-        if arr[i] <= pivot:
-            
-
-    i = left -1
-    for (int j = start )
-    return i
-=======
 '''
 标准的基本方法
 '''
@@ -51,4 +30,3 @@ print(arr)
 时间复杂度: O(nlogn)，  最坏O(n^2)
 空间复杂度:  O(logn)
 '''
->>>>>>> 611ed2ce1f9686e6f20ea6bd5ecca3a3cd0f315b
