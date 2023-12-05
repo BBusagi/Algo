@@ -9,6 +9,8 @@ List Comprehension
 切分(slicing)： [::] = [start, stop), step  
 嵌套列表
 
+### 链表
+
 ### 元组 (Tuple)  [URL](https://docs.python.org/3/library/stdtypes.html#typesseq)  
 特点：不可变但成员可变, 高效  
 元组解包
