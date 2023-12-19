@@ -1,0 +1,14 @@
+·构造器
+函数内函数
+调用外部变量 nonlocal，global，self
+
+·leecode22
+    self.pnum(i)*self.pnum(n - i - 1)
+    可dp优化
+
+·利用二分思想debug整体程序
+
+作业：
+Leetcode 278, 69, 50
+·思考题：（分治/递归）
+n*n（例64）的棋盘上，中间其中一个格子缺少棋子，思考如何利用trimino（三个格子构成的图形），填满除缺少位置之外的棋盘位置
