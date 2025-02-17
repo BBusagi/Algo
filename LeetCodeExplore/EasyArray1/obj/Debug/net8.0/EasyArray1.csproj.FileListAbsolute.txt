@@ -1,0 +1,15 @@
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.AssemblyInfoInputs.cache
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.AssemblyInfo.cs
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.csproj.CoreCompileInputs.cache
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.sourcelink.json
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\bin\Debug\net8.0\EasyArray1.exe
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\bin\Debug\net8.0\EasyArray1.deps.json
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\bin\Debug\net8.0\EasyArray1.runtimeconfig.json
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\bin\Debug\net8.0\EasyArray1.dll
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\bin\Debug\net8.0\EasyArray1.pdb
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.dll
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\refint\EasyArray1.dll
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.pdb
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\EasyArray1.genruntimeconfig.cache
+D:\GitProject\Algo\LeetCodeExplore\EasyArray1\obj\Debug\net8.0\ref\EasyArray1.dll
