@@ -371,3 +371,7 @@ if __name__ == "__main__":
 ```
 ### Practice3 - C#
 ### Practice3 - python
+
+# 第九章 陣列(array) & 二維陣列（2D Array）
+# 第十章：結構體（struct / class）與資料封裝
+# 第十一章：泛型（Generics）－讓你的程式更通用
