@@ -370,8 +370,186 @@ if __name__ == "__main__":
     main()
 ```
 ### Practice3 - C#
+```
+using System;
+
+class Program
+{
+    public static int NumberOfFactor(int n)
+    {
+        int num = 0;
+        for(int i = 1; i * i <= n; i ++)
+        {
+            if(n % i == 0)
+            {
+                if(i * i == n)
+                    num++;
+                else
+                    num += 2; 
+            }
+        }
+        return num;
+    }
+
+    static void Main(string[] args)
+    {
+        int n = int.Parse(Console.ReadLine());
+        Console.WriteLine(NumberOfFactor(n));
+    }
+}
+```
 ### Practice3 - python
+```
+def number_of_factor(n: int) -> int:
+    num = 0
+    i = 1
+    while i * i <= n:
+        if n % i == 0:
+            if i * i == n:
+                num += 1
+            else:
+                num += 2
+        i += 1
+    return num
+
+def main():
+    n = int(input())
+    print(number_of_factor(n))
+
+if __name__ == "__main__":
+    main()
+
+```
+
+<br>
+<br>
+<br>
+
 
 # 第九章 陣列(array) & 二維陣列（2D Array）
+### 一维数组
+```
+int[] scores = { 85, 92, 78, 96, 88 };
+
+// 加總所有數字
+int sum = 0;
+for (int i = 0; i < scores.Length; i++)
+{
+    sum += scores[i];
+}
+Console.WriteLine("總分為：" + sum);
+
+// 找出最大值
+int max = scores[0];
+for (int i = 1; i < scores.Length; i++)
+{
+    if (scores[i] > max)
+    {
+        max = scores[i];
+    }
+}
+Console.WriteLine("最高分為：" + max);
+```
+
+### 二维数组
+```
+int[,] matrix = {
+    {1, 2, 3},
+    {4, 5, 6},
+    {7, 8, 9}
+};
+
+// 列印二維陣列
+for (int i = 0; i < matrix.GetLength(0); i++)      // 行数
+{
+    for (int j = 0; j < matrix.GetLength(1); j++)  // 列数
+    {
+        Console.Write(matrix[i, j] + " ");
+    }
+    Console.WriteLine();
+}
+
+```
+
+<br>
+<br>
+<br>
+
 # 第十章：結構體（struct / class）與資料封裝
++ 结构体
++ 构造函数重载（Constructor Overloading）
++ 构造函数链（Constructor Chaining）
+    > 通过this/self 复用另一个构造函数
+
+<br>
+<br>
+<br>
+
+
+
 # 第十一章：泛型（Generics）－讓你的程式更通用
+T 是一個「型別參數」，可替代為任何型別，也可以使用多組例如<T , P>。
+### 定义泛型类
+```
+public class Box<T>     // <T> 是“类型参数”
+{
+    private T value;
+
+    public void Set(T val)
+    {
+        value = val;
+    }
+
+    public T Get()
+    {
+        return value;
+    }
+}
+```
+### 使用泛型类
+```
+class Program
+{
+    static void Main()
+    {
+        Box<int> intBox = new Box<int>();
+        intBox.Set(123);
+        Console.WriteLine(intBox.Get());  // 输出：123
+
+        Box<string> strBox = new Box<string>();
+        strBox.Set("Hello");
+        Console.WriteLine(strBox.Get());  // 输出：Hello
+    }
+}
+```
+
+<br>
+<br>
+<br>
+
+# 附录1 Debug
+Console.WriteLine($"目前 x 值: {x}");
+
+<br>
+<br>
+<br>
+
+# 附录2 Time complexity / Space Complexity
+| 分类            | 代表      | 特点         |
+| ------------- | ------- | ---------- |
+| O(1)          | 哈希、数组下标 | 最快         |
+| O(log n)      | 二分      | 极高效        |
+| O(n)          | 遍历      | 常见基线       |
+| O(n log n)    | 排序      | 高效通用       |
+| O(n²)         | 双循环     | 可优化目标      |
+| O(2ⁿ) / O(n!) | 递归暴力    | 极慢，需剪枝或 DP |
+
+# 附录3 基础练习题
+### 3099
+### 1480
+### 3028
+### 1394
+### 1470
+### 1450
+### 3024
+### 1295
