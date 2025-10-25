@@ -1,7 +1,3 @@
-# 部分准则
-+ 简化题目
-+ 思考 test case
-+ 思考如何 follow up
 
 # Live Session 0
 ## 进阶班
@@ -24,5 +20,8 @@
 [第 324 场周赛](https://leetcode.cn/contest/weekly-contest-324/)
 
 # Live Session 2
+## 初阶班
+## 进阶班
+
 # Live Session 3
 # Live Session 4
