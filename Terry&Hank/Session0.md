@@ -544,3 +544,16 @@ Console.WriteLine($"目前 x 值: {x}");
 | O(n²)         | 双循环     | 可优化目标      |
 | O(2ⁿ) / O(n!) | 递归暴力    | 极慢，需剪枝或 DP |
 
+<br>
+<br>
+<br>
+
+# Leecode Easy 练习题
++ [3099. Harshad Number](https://leetcode.com/problems/harshad-number/description/) (迴圈 if else條件判斷)
++ [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/description/) (迴圈 陣列)
++ [3028. Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary/description/) (迴圈 陣列 數字運算)
++ [1394. Find Lucky Integer in an Array](https://leetcode.com/problems/find-lucky-integer-in-an-array/description/) (迴圈 陣列 數字運算 if else條件判斷)
++ [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/description/) (迴圈 陣列)
++ [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/description/) (迴圈 if else條件判斷 數字運算)
++ [3024. Type of Triangle](https://leetcode.com/problems/type-of-triangle/description/) (if else條件 數字運算)
++ [1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/) (迴圈 if else條件 數字運算)

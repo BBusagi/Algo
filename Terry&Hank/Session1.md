@@ -1,10 +1,14 @@
 # Binary Search
++ 153. Find Minimum in Rotated Sorted Array
++ 154. Find Minimum in Rotated Sorted Array II
+
+## Binary Search
 特征 整个数字可以明显分为左右两边  
 时间复杂度 Ologn  
 难点1 l和r的变换之后的取值  
 难点2 循环结束的条件，在最后一种情况之后  
 
-# 153. Find Minimum in Rotated Sorted Array
+## 153. Find Minimum in Rotated Sorted Array
 一般对比是linear time  
 左右两边呈现单调性 → binary reach Ologn
 
@@ -22,7 +26,7 @@
 [2，3，4，0，1，2]
 [2,3,4,0,1]
 
-# Follow Up - 154. Find Minimum in Rotated Sorted Array II
+## Follow Up - 154. Find Minimum in Rotated Sorted Array II
 原来为无重复，如果当允许重复呢？
 
 [3,3,3,4,2]
