@@ -27,9 +27,7 @@
 
 # 进阶班
 ## Live Session 0 - Leetcode weekly contest 468
-
 ## Live Session 1 - Leetcode weekly contest 324
-
 ## Live Session 2 - Leetcode biweekly contest 97
 ## Live Session 3 - LeetCode Biweekly Contest 114
 ## Live Session 4 - LeetCode Biweekly Contest 100

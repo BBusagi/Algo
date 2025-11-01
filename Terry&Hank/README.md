@@ -1,9 +1,7 @@
 + [URL](https://www.buildmoat.org/)
 + [leecode 练习](https://leetcode.com/playground/)
 
-+ 初创 vs 大企
-StartUp 做快，再修
-BigHand 做好，减少出错
+
 
 + 去使用常用的语言，面试更加注重你的成果
 
@@ -21,5 +19,3 @@ BigHand 做好，减少出错
 ### Session 11 - Trie
 ### Session 12 - Priority Queue
 ### Session 13 - Graph
-
-
