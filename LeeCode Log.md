@@ -1,5 +1,5 @@
 ## TODO
-+ 3028. Ant on the Boundary
+
 
 ## 统计
 
@@ -52,6 +52,9 @@
 + 解1 暴力条件
 + 解2 先排序，时间稍受影响
 + 解3 max函数
+
+### [Easy] 3028. Ant on the Boundary
++ 重点 循环
 
 ### [Easy] 3099. Harshad Number
 + 重点 位数之和
