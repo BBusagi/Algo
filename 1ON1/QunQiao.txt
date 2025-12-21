@@ -1,0 +1,30 @@
++ TODO list
++ TODO
+简历
+查找XR公司的职缺
+
++ ref
+https://www.techinterviewhandbook.org/grind75/?weeks=28&hours=6
+https://www.1point3acres.com/bbs/
+
++ 第一性原则
+
+1. 兴趣
+2. 现实scope
+3. 抽象 → 五年后
+4. 接下来 工作的第3-8年之间是很关键
+
+1. 直接需求
+2. 曲线救国，先进入再内部转岗
+
++ 推荐的大厂 roblox meta nantic
++ meta容易出一模一样的算法题目
++ 但是只有senior的岗位的话，会比较难
+
++ 找公司内其他team需要的工作
++ 目前的趋势是反去中心化
+
++ 优势在是，非senior engineer的要求不会太专注
++ 机会都在，永远可以考虑转型
+
++ 举例，谷歌的Jiffy DS分布式 - DeepMind（较大跨度）
