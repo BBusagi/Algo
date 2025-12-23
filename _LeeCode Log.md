@@ -12,12 +12,17 @@
 + 复杂度分析和优化
 
 ## 二叉树基本例题
+### 二叉树的递归/层序遍历例题
 + [Easy] 94. Binary Tree Inorder Traversal --- 中序递归遍历
 + [Easy] 144. Binary Tree Preorder Traversal --- 前序递归遍历
 + [Easy] 145. Binary Tree Postorder Traversal --- 后序递归遍历
-***---> 不用递归如何实现？***
+    ***FollowUp 不用递归如何实现？***
 + [Medium] 102. Binary Tree Level Order Traversal --- 带有层级flag的层序遍历
-
+### 多叉树的递归/层序遍历例题
++ [Medium] 429. N-ary Tree Level Order Traversal --- 层序遍历
++ [Easy] 589. N-ary Tree Preorder Traversal --- 前序遍历
++ [Easy] 590. N-ary Tree Postorder Traversal --- 后序遍历
+    ***FollowUp: Recursive solution is trivial, could you do it iteratively?***
 
 ## Easy
 ### [Easy] 2. Add Two Numbers
