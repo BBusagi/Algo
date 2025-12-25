@@ -3,34 +3,33 @@
 
 ## 统计
 
-
-
 ## 模板
 + 问题抽象 这是一个什么类型的问题
 + 问题重点 问题的难点在哪里
 + 有哪些解决方法？
 + 复杂度分析和优化
 
+# 算法系统学习
 ## 二叉树基本例题
 ### 二叉树的递归/层序遍历例题
 + [Easy] 94. Binary Tree Inorder Traversal --- 中序递归遍历
 + [Easy] 144. Binary Tree Preorder Traversal --- 前序递归遍历
 + [Easy] 145. Binary Tree Postorder Traversal --- 后序递归遍历
-    ***FollowUp 不用递归如何实现？***
+    ***FollowUp: 不用递归如何实现？***
 + [Medium] 102. Binary Tree Level Order Traversal --- 带有层级flag的层序遍历
 ### 多叉树的递归/层序遍历例题
 + [Medium] 429. N-ary Tree Level Order Traversal --- 层序遍历
 + [Easy] 589. N-ary Tree Preorder Traversal --- 前序遍历
 + [Easy] 590. N-ary Tree Postorder Traversal --- 后序遍历
     ***FollowUp: Recursive solution is trivial, could you do it iteratively?***
+### DFS 和 BFS 的适用场景
++ [Easy] 111. Minimum Depth of Binary Tree
 
 ## Easy
 ### [Easy] 2. Add Two Numbers
 ### [Easy] 9. Palindrome Number
 ### [Easy] 13. Roman to Integer
 ### [Easy] 66. Plus One
-
-
 
 ### [Easy] 766. Toeplitz Matrix
 + 重点 设想一下正确情况下会是怎么样
