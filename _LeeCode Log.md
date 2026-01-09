@@ -1,5 +1,5 @@
 ## TODO
-+ 380
++ 380 O1实现删除方法
 
 ## 统计
 
@@ -24,7 +24,10 @@
     ***FollowUp: Recursive solution is trivial, could you do it iteratively?***
 ### DFS 和 BFS 的适用场景
 + [Easy] 111. Minimum Depth of Binary Tree
+## 图结构的基本例题
++ [Medium] 797. All Paths From Source to Target
 
+# Practice Log
 ## Easy
 ### [Easy] 2. Add Two Numbers
 ### [Easy] 9. Palindrome Number
