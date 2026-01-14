@@ -1,7 +1,11 @@
 + TODO list
-+ TODO
++ TODO Question
+1 要不要把未来继续转岗的意图暴露出来
+2 如何修改自己的简历，能够展现高价值
+	如何改为段子
 简历
 查找XR公司的职缺
+曲线救国 是否可以
 
 + ref
 https://www.techinterviewhandbook.org/grind75/?weeks=28&hours=6
