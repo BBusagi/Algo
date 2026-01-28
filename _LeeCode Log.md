@@ -8,25 +8,40 @@
 + 问题重点 问题的难点在哪里
 + 有哪些解决方法？
 + 复杂度分析和优化
+  + 10⁸是时间复杂度上限，超过即会TLE；空间复杂度的上限为10⁷
 
 # 算法系统学习
-## 二叉树基本例题
-### 二叉树的递归/层序遍历例题
+## 数据结构
+### 二叉树基本例题
+#### 二叉树的递归/层序遍历例题
 + [Easy] 94. Binary Tree Inorder Traversal --- 中序递归遍历
 + [Easy] 144. Binary Tree Preorder Traversal --- 前序递归遍历
 + [Easy] 145. Binary Tree Postorder Traversal --- 后序递归遍历
     ***FollowUp: 不用递归如何实现？***
 + [Medium] 102. Binary Tree Level Order Traversal --- 带有层级flag的层序遍历
-### 多叉树的递归/层序遍历例题
+#### 多叉树的递归/层序遍历例题
 + [Medium] 429. N-ary Tree Level Order Traversal --- 层序遍历
 + [Easy] 589. N-ary Tree Preorder Traversal --- 前序遍历
 + [Easy] 590. N-ary Tree Postorder Traversal --- 后序遍历
     ***FollowUp: Recursive solution is trivial, could you do it iteratively?***
-### DFS 和 BFS 的适用场景
+#### DFS 和 BFS 的适用场景
 + [Easy] 111. Minimum Depth of Binary Tree
-## 图结构的基本例题
+### 图结构的基本例题
 + [Medium] 797. All Paths From Source to Target
     √ ***FollowUp: 尝试使用BFS实现*** 
+
+## 算法
+### 链表
++ [Easy] 21. Merge Two Sorted Lists
++ [Medium] 86. Partition List
++ [Medium] 19. Remove Nth Node From End of List
++ [Easy] 876. Middle of the Linked List
+    ***FollowUp: return the first one when two midnotes*** 
++ [Easy] 141. Linked List Cycle
++ 
+
+
+
 
 # Practice Log
 ## Easy
