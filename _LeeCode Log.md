@@ -36,9 +36,9 @@
 + [Medium] 86. Partition List
 + [Medium] 19. Remove Nth Node From End of List
 + [Easy] 876. Middle of the Linked List
-    ***FollowUp: return the first one when two midnotes*** 
+    √ ***FollowUp: return the first one when two midnotes*** 
 + [Easy] 141. Linked List Cycle
-+ 
++ [Medium] 142. Linked List Cycle II
 
 
 
