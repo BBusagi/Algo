@@ -10,9 +10,8 @@
 + 复杂度分析和优化
   + 10⁸是时间复杂度上限，超过即会TLE；空间复杂度的上限为10⁷
 
-# 算法系统学习
-## 数据结构
-### 二叉树基本例题
+## 算法系统学习
+### 数据结构基本例题
 #### 二叉树的递归/层序遍历例题
 + [Easy] 94. Binary Tree Inorder Traversal --- 中序递归遍历
 + [Easy] 144. Binary Tree Preorder Traversal --- 前序递归遍历
@@ -30,8 +29,8 @@
 + [Medium] 797. All Paths From Source to Target
     √ ***FollowUp: 尝试使用BFS实现*** 
 
-## 算法
-### 链表
+### 算法例题
+#### 链表
 + [Easy] 21. Merge Two Sorted Lists
 + [Medium] 86. Partition List
 + [Medium] 19. Remove Nth Node From End of List
@@ -39,7 +38,7 @@
     √ ***FollowUp: return the first one when two midnotes*** 
 + [Easy] 141. Linked List Cycle
 + [Medium] 142. Linked List Cycle II
-
++ [Easy] 160. Intersection of Two Linked Lists
 
 
 
