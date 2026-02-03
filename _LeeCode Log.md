@@ -41,6 +41,16 @@
 + [Easy] 141. Linked List Cycle
 + [Medium] 142. Linked List Cycle II
 + [Easy] 160. Intersection of Two Linked Lists
+##### 【练习】
++ [Medium] 82. Remove Duplicates from Sorted List II
+→ 
++ [Easy] 83. Remove Duplicates from Sorted List
+
+
+
+
+
+
 
 # Practice Log
 ## Easy
