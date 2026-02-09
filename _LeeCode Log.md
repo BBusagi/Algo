@@ -43,10 +43,9 @@
 + [Easy] 160. Intersection of Two Linked Lists
 ##### 【练习】
 + [Medium] 82. Remove Duplicates from Sorted List II
-→ 
 + [Easy] 83. Remove Duplicates from Sorted List
-
-
++ [Medium] 378. Kth Smallest Element in a Sorted Matrix
++ [Medium] 373. Find K Pairs with Smallest Sums
 
 
 
