@@ -1,5 +1,6 @@
-+ TODO list
-+ TODO Question
+个人履历 
+ Stripe Facebook Google OpenAI Airbnb Staff Software Engineer
+
 1 要不要把未来继续转岗的意图暴露出来
 2 如何修改自己的简历，能够展现高价值
 	如何改为段子
