@@ -47,7 +47,6 @@
 + [Medium] 378. Kth Smallest Element in a Sorted Matrix
 + [Medium] 373. Find K Pairs with Smallest Sums
 + [Medium] 2. Add Two Numbers
-    ***FollowUp: 倒序存储*** 
 + [Medium] 445. Add Two Numbers II
 
 
