@@ -51,7 +51,7 @@
 + [Medium] 445. Add Two Numbers II
 ### 链表 - 其他
 + [Leecode] 234. Palindrome Linked List
-
+    √ ***FollowUp: O(n) time and O(1) space*** 
 
 
 # Practice Log
