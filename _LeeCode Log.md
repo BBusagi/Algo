@@ -50,8 +50,9 @@
 + [Medium] 2. Add Two Numbers
 + [Medium] 445. Add Two Numbers II
 ### 链表 - 其他
-+ [Leecode] 234. Palindrome Linked List
++ [Easy] 234. Palindrome Linked List
     √ ***FollowUp: O(n) time and O(1) space*** 
++ [Easy] 206. Reverse Linked List
 
 
 # Practice Log
