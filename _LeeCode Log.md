@@ -53,7 +53,8 @@
 + [Easy] 234. Palindrome Linked List
     √ ***FollowUp: O(n) time and O(1) space*** 
 + [Easy] 206. Reverse Linked List
-
++ [Medium] 92. Reverse Linked List II
+    √ ***Follow up: Could you do it in one pass?*** 
 
 # Practice Log
 ## Easy
