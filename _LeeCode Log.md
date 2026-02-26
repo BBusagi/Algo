@@ -17,28 +17,28 @@
 + [Easy] 94. Binary Tree Inorder Traversal --- 中序递归遍历
 + [Easy] 144. Binary Tree Preorder Traversal --- 前序递归遍历
 + [Easy] 145. Binary Tree Postorder Traversal --- 后序递归遍历
-    ***FollowUp: 不用递归如何实现？***
+---***FollowUp: 不用递归如何实现？***
 + [Medium] 102. Binary Tree Level Order Traversal --- 带有层级flag的层序遍历
 ### 多叉树的递归/层序遍历例题
 + [Medium] 429. N-ary Tree Level Order Traversal --- 层序遍历
 + [Easy] 589. N-ary Tree Preorder Traversal --- 前序遍历
 + [Easy] 590. N-ary Tree Postorder Traversal --- 后序遍历
-    ***FollowUp: Recursive solution is trivial, could you do it iteratively?***
+---***FollowUp: Recursive solution is trivial, could you do it iteratively?***
 ### DFS 和 BFS 的适用场景
 + [Easy] 111. Minimum Depth of Binary Tree
 ### 图结构
 + [Medium] 797. All Paths From Source to Target
-    √ ***FollowUp: 尝试使用BFS实现*** 
+--- √ ***FollowUp: 尝试使用BFS实现*** 
 
 ## 算法例题
 ### 链表
 + [Easy] 21. Merge Two Sorted Lists
 + [Medium] 86. Partition List
 + [hard] 23. Merge k Sorted Lists
-  ***FollowUp: 如果要求是按照最大值呢？*** 
+---***FollowUp: 如果要求是按照最大值呢？*** 
 + [Medium] 19. Remove Nth Node From End of List
 + [Easy] 876. Middle of the Linked List
-    √ ***FollowUp: return the first one when two midnotes*** 
+---√ ***FollowUp: return the first one when two midnotes*** 
 + [Easy] 141. Linked List Cycle
 + [Medium] 142. Linked List Cycle II
 + [Easy] 160. Intersection of Two Linked Lists
@@ -51,12 +51,15 @@
 + [Medium] 445. Add Two Numbers II
 ### 链表 - 其他
 + [Easy] 234. Palindrome Linked List
-    √ ***FollowUp: O(n) time and O(1) space*** 
+--- √ ***FollowUp: O(n) time and O(1) space*** 
 + [Easy] 206. Reverse Linked List
 + [Medium] 92. Reverse Linked List II
-    √ ***Follow up: Could you do it in one pass?*** 
+--- √ ***Follow up: Could you do it in one pass?*** 
 + [Hard] 25. Reverse Nodes in k-Group
-
+### 数组
++ [Easy] 26. Remove Duplicates from Sorted Array
++ [Easy] 83. Remove Duplicates from Sorted List
++ [Easy] 27. Remove Element
 
 
 # Practice Log
