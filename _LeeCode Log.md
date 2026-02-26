@@ -55,6 +55,9 @@
 + [Easy] 206. Reverse Linked List
 + [Medium] 92. Reverse Linked List II
     √ ***Follow up: Could you do it in one pass?*** 
++ [Hard] 25. Reverse Nodes in k-Group
+
+
 
 # Practice Log
 ## Easy
