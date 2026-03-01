@@ -62,6 +62,10 @@
 + [Easy] 27. Remove Element
 
 
+
++ [Medium] 167. Two Sum II - Input Array Is Sorted
++ [Easy] 344. Reverse String
+
 # Practice Log
 ## Easy
 ### [Easy] 2. Add Two Numbers
