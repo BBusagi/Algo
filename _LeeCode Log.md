@@ -67,6 +67,8 @@
 + [Easy] 344. Reverse String
 + [Medium] 5. Longest Palindromic Substring
 + [Medium] 151. Reverse Words in a String
++ [Medium] 61. Rotate List
++ [Medium] 48. Rotate Image
 
 
 
