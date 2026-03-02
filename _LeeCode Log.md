@@ -60,6 +60,8 @@
 + [Easy] 26. Remove Duplicates from Sorted Array
 + [Easy] 83. Remove Duplicates from Sorted List
 + [Easy] 27. Remove Element
++ [Easy] 283. Move Zeroes
+--- √ ***Follow up: Could you minimize the total number of operations done?*** 
 
 
 # Practice Log
