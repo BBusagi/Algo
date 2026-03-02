@@ -1,6 +1,7 @@
 # Status
 ## TODO
 + 380 O1实现删除方法
++ 186 反转数组高级版
 
 ## 统计
 
@@ -62,11 +63,38 @@
 + [Easy] 27. Remove Element
 + [Easy] 283. Move Zeroes
 --- √ ***Follow up: Could you minimize the total number of operations done?*** 
-
-
-
 + [Medium] 167. Two Sum II - Input Array Is Sorted
 + [Easy] 344. Reverse String
++ [Medium] 5. Longest Palindromic Substring
++ [Medium] 151. Reverse Words in a String
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # Practice Log
 ## Easy
