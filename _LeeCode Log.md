@@ -80,6 +80,8 @@
 --- √ ***Follow up: Can you come up with an algorithm that runs in O(m + n) time?*** 
 + [Easy] 977. Squares of a Sorted Array
 + [Medium] 1329. Sort the Matrix Diagonally
++ [Easy] 1260. Shift 2D Grid
++ [Easy] 867. Transpose Matrix
 
 
 
