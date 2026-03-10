@@ -85,7 +85,7 @@
 + [Easy] 14. Longest Common Prefix
 + [Hard] 76. Minimum Window Substring
 --- √ ***Follow up: Could you find an algorithm that runs in O(m + n) time?*** 
-
++ [Medium] 567. Permutation in String
 
 
 
