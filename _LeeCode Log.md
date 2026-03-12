@@ -57,6 +57,7 @@
 + [Medium] 92. Reverse Linked List II
 --- √ ***Follow up: Could you do it in one pass?*** 
 + [Hard] 25. Reverse Nodes in k-Group
++ [Medium] 24. Swap Nodes in Pairs
 ### 数组
 + [Easy] 26. Remove Duplicates from Sorted Array
 + [Easy] 83. Remove Duplicates from Sorted List
