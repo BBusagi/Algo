@@ -92,5 +92,7 @@
 + [Medium] 438. Find All Anagrams in a String
 + [Medium] 3. Longest Substring Without Repeating Characters
 ### 数组 - 练习
++ [Medium] 1658. Minimum Operations to Reduce X to Zero
 + [Medium] 713. Subarray Product Less Than K
 + [Medium] 1004. Max Consecutive Ones III
++ [Medium] 424. Longest Repeating Character Replacement
