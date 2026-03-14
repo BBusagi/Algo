@@ -21,13 +21,16 @@
 + [Easy] 145. Binary Tree Postorder Traversal --- 后序递归遍历
 ---***FollowUp: 不用递归如何实现？***
 + [Medium] 102. Binary Tree Level Order Traversal --- 带有层级flag的层序遍历
+
 ### 多叉树的递归/层序遍历例题
 + [Medium] 429. N-ary Tree Level Order Traversal --- 层序遍历
 + [Easy] 589. N-ary Tree Preorder Traversal --- 前序遍历
 + [Easy] 590. N-ary Tree Postorder Traversal --- 后序遍历
 ---***FollowUp: Recursive solution is trivial, could you do it iteratively?***
+
 ### DFS 和 BFS 的适用场景
 + [Easy] 111. Minimum Depth of Binary Tree
+
 ### 图结构
 + [Medium] 797. All Paths From Source to Target
 --- √ ***FollowUp: 尝试使用BFS实现*** 
@@ -44,6 +47,7 @@
 + [Easy] 141. Linked List Cycle
 + [Medium] 142. Linked List Cycle II
 + [Easy] 160. Intersection of Two Linked Lists
+
 ### 链表 - 练习
 + [Medium] 82. Remove Duplicates from Sorted List II
 + [Easy] 83. Remove Duplicates from Sorted List
@@ -51,6 +55,8 @@
 + [Medium] 373. Find K Pairs with Smallest Sums
 + [Medium] 2. Add Two Numbers
 + [Medium] 445. Add Two Numbers II
++ [Medium] 287. Find the Duplicate Number
+
 ### 链表 - 其他
 + [Easy] 234. Palindrome Linked List
 --- √ ***FollowUp: O(n) time and O(1) space*** 
@@ -59,6 +65,7 @@
 --- √ ***Follow up: Could you do it in one pass?*** 
 + [Hard] 25. Reverse Nodes in k-Group
 + [Medium] 24. Swap Nodes in Pairs
+
 ### 数组
 + [Easy] 26. Remove Duplicates from Sorted Array
 + [Easy] 83. Remove Duplicates from Sorted List
@@ -70,6 +77,7 @@
 + [Medium] 5. Longest Palindromic Substring
 + [Medium] 151. Reverse Words in a String
 + [Medium] 61. Rotate List
+
 ### 数组 - 练习
 + [Medium] 48. Rotate Image
 + [Medium] 54. Spiral Matrix
@@ -84,6 +92,7 @@
 + [Medium] 1329. Sort the Matrix Diagonally
 + [Easy] 1260. Shift 2D Grid
 + [Easy] 867. Transpose Matrix
+
 ### 数组 - 滑动窗口
 + [Easy] 14. Longest Common Prefix
 + [Hard] 76. Minimum Window Substring
@@ -91,6 +100,7 @@
 + [Medium] 567. Permutation in String
 + [Medium] 438. Find All Anagrams in a String
 + [Medium] 3. Longest Substring Without Repeating Characters
+
 ### 数组 - 练习
 + [Medium] 1658. Minimum Operations to Reduce X to Zero
 + [Medium] 713. Subarray Product Less Than K
