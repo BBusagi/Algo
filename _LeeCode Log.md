@@ -1,5 +1,6 @@
 # Status
 ## TODO
++ 1425 862 53 无法单纯使用滑动窗口
 + 560 无法使用滑动窗口
 + 380 O1实现删除方法
 + 186 反转数组高级版
@@ -107,3 +108,5 @@
 + [Medium] 1004. Max Consecutive Ones III
 + [Medium] 424. Longest Repeating Character Replacement
 + [Easy] 219. Contains Duplicate II
+
++ [Medium] 209. Minimum Size Subarray Sum
