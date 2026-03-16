@@ -108,6 +108,6 @@
 + [Medium] 1004. Max Consecutive Ones III
 + [Medium] 424. Longest Repeating Character Replacement
 + [Easy] 219. Contains Duplicate II
-+ [Hard] 220. Contains Duplicate III <--
++ [Hard] 220. Contains Duplicate III
 + [Medium] 209. Minimum Size Subarray Sum
 + [Medium] 395. Longest Substring with At Least K Repeating Characters
