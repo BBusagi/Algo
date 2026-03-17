@@ -111,3 +111,7 @@
 + [Hard] 220. Contains Duplicate III
 + [Medium] 209. Minimum Size Subarray Sum
 + [Medium] 395. Longest Substring with At Least K Repeating Characters
+
+### 数组 - 二分搜索
++ [Easy] 704. Binary Search
++ [Medium] 34. Find First and Last Position of Element in Sorted Array
