@@ -116,3 +116,5 @@
 + [Easy] 704. Binary Search
 + [Medium] 34. Find First and Last Position of Element in Sorted Array
 + [Medium] 875. Koko Eating Bananas
++ [Medium] 1011. Capacity To Ship Packages Within D Days
++ [Hard] 410. Split Array Largest Sum
