@@ -118,3 +118,6 @@
 + [Medium] 875. Koko Eating Bananas
 + [Medium] 1011. Capacity To Ship Packages Within D Days
 + [Hard] 410. Split Array Largest Sum
+
+### 数组 - 其他
++ [Easy] 303. Range Sum Query - Immutable
