@@ -121,3 +121,4 @@
 
 ### 数组 - 其他
 + [Easy] 303. Range Sum Query - Immutable
++ [Medium] 304. Range Sum Query 2D - Immutable
