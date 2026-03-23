@@ -119,6 +119,7 @@
 + [Medium] 1011. Capacity To Ship Packages Within D Days
 + [Hard] 410. Split Array Largest Sum
 
-### 数组 - 其他
+### 数组 - 其他技巧
 + [Easy] 303. Range Sum Query - Immutable
 + [Medium] 304. Range Sum Query 2D - Immutable
++ [Medium] 1109. Corporate Flight Bookings
