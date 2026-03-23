@@ -125,3 +125,4 @@
 
 ## 队列/栈
 + [Easy] 232. Implement Queue using Stacks
++ [Easy] 225. Implement Stack using Queues
