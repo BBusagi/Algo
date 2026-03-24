@@ -20,8 +20,13 @@
 ### 大写转小写
 - `c.lower()`
 
-### 判断是否为字母或数字
-- `c.isalnum()`
+### 常用字符判断方法
+- `c.isdigit()` 判断数字
+- `c.isalpha()` 判断字母
+- `c.isalnum()` 判断为字母或数字
+- `c.isspace()` 判断空格
+- `c.islower()` 判断小写
+- `c.isupper()` 判断大写
 
 ### 找目标索引
 - string.find(): 找第一个符合条件的索引位置
