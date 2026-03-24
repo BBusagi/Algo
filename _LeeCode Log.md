@@ -123,6 +123,9 @@
 + [Medium] 1109. Corporate Flight Bookings
 + [Medium] 1094. Car Pooling
 
-## 队列/栈
+### 队列/栈
 + [Easy] 232. Implement Queue using Stacks
 + [Easy] 225. Implement Stack using Queues
+
+### 队列/栈 - 练习
++ [Medium] 71. Simplify Path
