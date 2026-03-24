@@ -1,11 +1,11 @@
 # Status
+**统计 - 71题 数组完**
+
 ## TODO
 + 1425 862 53 无法单纯使用滑动窗口
 + 560 无法使用滑动窗口
 + 380 O1实现删除方法
 + 186 反转数组高级版
-
-## 统计
 
 ## 模板
 + 问题抽象 这是一个什么类型的问题
@@ -132,3 +132,4 @@
 + [Medium] 143. Reorder List
 + [Easy] 20. Valid Parentheses
 + [Medium] 150. Evaluate Reverse Polish Notation
++ [Medium] 388. Longest Absolute File Path

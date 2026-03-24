@@ -2,18 +2,17 @@
 
 ### 无穷大
 - `float("inf")` / `float("-inf")`
-- `int` 没有固定上限，不像 C# 的 `int` 会受位数限制
+  - `int` 没有固定上限，不像 C# 的 `int` 会受位数限制
 
 ### 除法
 - `/` 有小数，**永远**返回float类型
 - `//` 向下取整
-  - -7 // 3   # -3   （不是 -2）
+  > -7 // 3   # -3   （不是 -2）
 - int(a/b) 去尾
-> 设计原理，确保恒等式一致 `a == (a // b) * b + (a % b)`
+  > 设计原理，确保恒等式一致 `a == (a // b) * b + (a % b)`
 
 ### 整除与取余
-- `q, r = divmod(a, b)` 等价于 `(a // b, a % b)`
-- 这一条更准确地说是“整除 + 取余”，不只是“取模”
+- `q, r = divmod(a, b)` 等价于 `(a // b, a % b)` (整除 + 取余)
 
 ### 平方后排序
 - `result = sorted(x * x for x in nums)`
@@ -24,12 +23,16 @@
 ### 判断是否为字母或数字
 - `c.isalnum()`
 
+### 找目标索引
+- string.find(): 找第一个符合条件的索引位置
+- string.rfind(): 找最后一个符合条件的索引位置
+
 ### 找最值
 - `max(a, b, c, key=len)`
 - `key=` 常用于“按什么规则比较”，例如按长度、绝对值、自定义字段
 
 ### `for ... else` / `while ... else`
-- Python 特有语法
+- Python特有
 - 循环如果没有执行 `break`，结束后才会进入 `else`
 - 常用于“查找失败”的场景
 
@@ -46,10 +49,8 @@
 - 一般记为 `O(n log n)`；Python 底层是 Timsort
 
 ### 反转 API
-- `nums.reverse()`
-- 原地修改，返回 `None`
-- `reversed(nums)`
-- 返回迭代器，不修改原对象
+- `nums.reverse()`: 原地修改，返回 `None`
+- `reversed(nums)`: 返回迭代器，不修改原对象
 
 ### 数据结构：`set`
 - `s = set()`
@@ -113,7 +114,6 @@ heapq.heappush(heap, (-priority, value))
 - `" ".join(reversed(words))`
 
 ## Python vs C#
-
 ### tuple
 - Python 的 `tuple` 更像“轻量、不可变记录”
 - 对照 C# 时，可以先类比 `ValueTuple`
