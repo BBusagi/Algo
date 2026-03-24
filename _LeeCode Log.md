@@ -129,3 +129,6 @@
 
 ### 队列/栈 - 练习
 + [Medium] 71. Simplify Path
++ [Medium] 143. Reorder List
++ [Easy] 20. Valid Parentheses
++ [Medium] 150. Evaluate Reverse Polish Notation
