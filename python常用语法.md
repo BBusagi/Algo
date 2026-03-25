@@ -57,6 +57,16 @@
 - `nums.reverse()`: 原地修改，返回 `None`
 - `reversed(nums)`: 返回迭代器，不修改原对象
 
+### 数据结构：队列
+- queue：`from collections import deque`
+- API：append() / appendleft() / pop() / popleft()
+- 特点：双端操作 O(1)
+
+- Queue：`from queue import Queue`
+- API：put() get() qsize() 
+- 特点：阻塞/非阻塞控制，线程安全
+- 常用于：多线程控制
+
 ### 数据结构：`set`
 - `s = set()`
 - `s.add(x)`

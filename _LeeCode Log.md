@@ -136,3 +136,4 @@
 + [Medium] 394. Decode String
 + [Medium] 155. Min Stack
 + [Hard] 895. Maximum Frequency Stack
++ [Easy] 933. Number of Recent Calls
