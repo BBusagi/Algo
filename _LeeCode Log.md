@@ -137,3 +137,5 @@
 + [Medium] 155. Min Stack
 + [Hard] 895. Maximum Frequency Stack
 + [Easy] 933. Number of Recent Calls
++ [Medium] 622. Design Circular Queue
++ [Medium] 641. Design Circular Deque
