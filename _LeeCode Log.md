@@ -139,3 +139,5 @@
 + [Easy] 933. Number of Recent Calls
 + [Medium] 622. Design Circular Queue
 + [Medium] 641. Design Circular Deque
++ [Medium] 1670. Design Front Middle Back Queue
++ [Easy] 2073. Time Needed to Buy Tickets
