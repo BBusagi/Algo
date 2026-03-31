@@ -1,5 +1,9 @@
 ## Python 常用语法
 
+### 循环控制
++ break: 直接终止整个循环
++ continue: 跳过本次循环，进入下一轮
+
 ### 无穷大
 - `float("inf")` / `float("-inf")`
   - `int` 没有固定上限，不像 C# 的 `int` 会受位数限制
@@ -29,6 +33,7 @@
 - `c.isupper()` 判断大写
 
 ### 找目标索引
+- array.index(): 找list中第一个符合条件的索引位置
 - string.find(): 找第一个符合条件的索引位置
 - string.rfind(): 找最后一个符合条件的索引位置
 
