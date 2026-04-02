@@ -141,5 +141,13 @@
 + [Medium] 641. Design Circular Deque
 + [Medium] 1670. Design Front Middle Back Queue
 + [Easy] 2073. Time Needed to Buy Tickets
+
+## 单调栈 & 单调队列
++ [Easy] 496. Next Greater Element I
++ [Medium] 739 Daily Temperatures
 + [Medium] 503. Next Greater Element II
 + [Hard]  239. Sliding Window Maximum
+
+### 单调栈 - 练习
++ [Medium] 1019. Next Greater Node In Linked List
++ [Hard] 1944. Number of Visible People in a Queue
