@@ -151,3 +151,4 @@
 ### 单调栈 - 练习
 + [Medium] 1019. Next Greater Node In Linked List
 + [Hard] 1944. Number of Visible People in a Queue
++ [Easy] 1475. Final Prices With a Special Discount in a Shop
