@@ -73,7 +73,7 @@
 ### 排序 API
 - `nums.sort()` / `nums.sort(reverse=True)`
 - 原地修改，返回 `None`
-- `sorted(nums)` / `sorted(nums, reverse=True)`
+- `nums = sorted(nums)` / `nums = sorted(nums, reverse=True)`
 - 返回新列表，不修改原对象
 - 一般记为 `O(nlogn)`；Python 底层是 Timsort
 
