@@ -153,3 +153,4 @@
 + [Hard] 1944. Number of Visible People in a Queue
 + [Easy] 1475. Final Prices With a Special Discount in a Shop
 + [Medium] 901. Online Stock Span
++ [Medium] 402. Remove K Digits

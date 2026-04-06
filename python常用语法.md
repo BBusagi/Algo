@@ -21,16 +21,35 @@
 ### 平方后排序
 - `result = sorted(x * x for x in nums)`
 
-### 大写转小写
-- `c.lower()`
+### 字符处理
++ `s[::-1]` - 反转
++ `for i, c in enumerate(s):` - enumerate迭代器
 
-### 常用字符判断方法
-- `c.isdigit()` 判断数字
-- `c.isalpha()` 判断字母
-- `c.isalnum()` 判断为字母或数字
-- `c.isspace()` 判断空格
-- `c.islower()` 判断小写
-- `c.isupper()` 判断大写
++ 大小写互换
+  - `s.lower()` - 大写转小写
+  - `s.upper()` - 小写转大写
+
++ 找目标索引
+  - `s.find()`: 第一个符合条件的索引位置
+  - `s.rfind()`: 最后一个符合条件的索引位置
+  
++ 拼接和分割
+  - `"".join(iterable)` - 拼接
+  - `"".join(reversed(words))` - 反转后拼接
+  - `s.split()` - 默认按任意空白字符分割，并自动忽略多余空格
+
++ 去除字符
+  - `s.lstrip()` - 连续去左边
+  - `s.rstrip()` - 连续去右边
+  - `s.strip()` - 两边都去
+
++ 常用字符判断
+  - `c.isdigit()` 判断数字
+  - `c.isalpha()` 判断字母
+  - `c.isalnum()` 判断为字母或数字
+  - `c.isspace()` 判断空格
+  - `c.islower()` 判断小写
+  - `c.isupper()` 判断大写
 
 ### 找目标索引
 - array.index(): 找list中第一个符合条件的索引位置
@@ -56,7 +75,7 @@
 - 原地修改，返回 `None`
 - `sorted(nums)` / `sorted(nums, reverse=True)`
 - 返回新列表，不修改原对象
-- 一般记为 `O(n log n)`；Python 底层是 Timsort
+- 一般记为 `O(nlogn)`；Python 底层是 Timsort
 
 ### 反转 API
 - `nums.reverse()`: 原地修改，返回 `None`
@@ -125,13 +144,6 @@ heapq.heappush(heap, (-priority, value))
 
 - 如果第 1 项相同，Python 会继续比较后面的值
 - 所以当后面的对象不可比较时，通常要额外加一个可比较字段避免报错
-
-### 空格处理
-- `s.split()`
-- 默认按任意空白字符分割，并自动忽略多余空格
-
-### 反转后拼接
-- `" ".join(reversed(words))`
 
 ## Python vs C#
 ### tuple
