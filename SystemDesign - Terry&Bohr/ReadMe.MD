@@ -21,3 +21,21 @@
 + Search System - 11
 + Data Pipeline Design - 17
 + RAG (Retrieval-Augmented Generation) - 8
+
+### 常用技术
++ Database
++ Blob Storage
++ API Gateway
++ Load Balancer
++ Container
++ Serverless
++ Queue
++ Distributed Cache
++ Distributed Lock
++ CDN (Content Delivery Network)
+
+### 运维与可靠性
++ Dealing With Contention
++ Overload Protection
++ Reliable Delivery
++ Observability
