@@ -3,7 +3,7 @@
 + Client-Server Architecture - 5
 + CAP Theorem - 4
 + Scalability - 3
-+ API Design - 1
++ API Design - 18
 + Consistent Hashing - 7
 + Database Indexing - 3
 + Database Transactions - 9
