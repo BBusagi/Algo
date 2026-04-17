@@ -105,3 +105,18 @@
 + 对外公开API
 + 对内服务通讯
 > [ChipStack](https://www.chirpstack.io/) - gRTC通讯练习
+
+## API Security
++ Authentication - 你是谁？
++ Authorization - 你能做什么？
+### Authentication 常见方法
++ API key - 简单，但是易泄露
++ Basic Auth - 简单，但是安全较差
++ Token-based - JWT(JSON Web Token)
++ OAuth 2.0 - 第三方API授权
++ mTLS - 双方都需要凭证，内部微服务通讯
+
+### Authorization 常见模型
++ RBAC (Role-Based Access Control) - 角色控制权限
++ ABAC (Attribute-Based Access Control) - 用户或资源属性决定访问权限
++ Scope-based (OAuth Scopes) - 随Token发放权限
