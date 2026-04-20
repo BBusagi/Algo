@@ -5,7 +5,7 @@
 + Scalability - 3
 + API Design - 18
 + Consistent Hashing - 7
-+ Database Indexing - 3
++ Database Indexing - 24
 + Database Transactions - 9
 + Caching - 12
 + Sharding - 12
