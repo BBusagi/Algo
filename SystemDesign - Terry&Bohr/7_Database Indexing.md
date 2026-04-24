@@ -75,6 +75,42 @@
 + 嵌入式保存引擎
 + 区块链保存层
 
+## Hash Index
++ 适用等值查找，不适合范围查找
++ 包括Hash，Hash Table, Collision Hash
++ 计算Hash值 → 目标Bucket查找 → 回传
+
+### 优缺点
++ 优点
+  + 查找快
+  + 空间利用率高
+  + 插入快，直接放入bucket
++ 缺点
+  + 不支持范围查找
+  + 碰撞
+  + 扩容成本高，bucket满时需要重新rehash
+
+## Geospatial Index 空间索引
++ 针对二维甚至多维信息
++ 一维存储下的经纬交集索引存在性能问题 
+  > 扫描数据过多 + 索引利用不充分 → 查询变慢
+### Gaohash 
++ 将经纬转化为一维字符串和整数
++ 不断细分，相近的地方有相同前缀
++ 结合B-Tree 前缀和
++ Redis, MonoDB
+
+### QuadTree
++ 递归式空间切分
++ 动态精度，只有当整个区域数据太多的时候才会继续切分
++ 需要专门的树状结构
+
+### R-Tree (Rectangle Tree)
++ 非固定切分，弹性、可重叠矩形
++ 同一结构中处理点与大型形状
++ 空间索引的标准选择
+
 ## 各个结构比较
-+ B-Tree 读取为主
++ B-Tree 读取为主，范围查找(MySQL InnoDB)
 + LSM Tree 写入为主
++ Hash 精确查找(MySQL Memory, Redis, Sharding)
