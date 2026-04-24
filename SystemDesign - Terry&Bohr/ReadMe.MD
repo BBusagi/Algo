@@ -1,3 +1,6 @@
+# 学习顺序
++ 基本概念 → 大型应用设计 → 设计模式 → 常用技术、
+
 ### 基础知识
 + Networking Essentials - 26
 + Client-Server Architecture - 5
